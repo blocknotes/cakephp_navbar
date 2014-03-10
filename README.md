@@ -1,6 +1,17 @@
+# PROJECT UNMAINTAINED
+
+> *This project is not maintained anymore*
+>
+> *If you like it or continue to use it fork it please.*
+
+* * *
+* * *
+
 A CakePHP Bootstrap Navbar
 --------------------------
 An easy to use navbar using Twitter Bootstrap 3 (<http://getbootstrap.com>).
+
+![Screenshot](image1.png)
 
 * * *
 
@@ -22,4 +33,4 @@ An easy to use navbar using Twitter Bootstrap 3 (<http://getbootstrap.com>).
 
 * * *
 
-My website: <http://blocknot.es/>
+My website: <https://blocknot.es/>
